@@ -1,0 +1,15 @@
+
+# Movie Theater Revenue Optimization
+
+## Steps
+- Data Cleaning and Feature Engineering
+- EDA: Show Time Trends, City Occupancy, Correlation
+- Classification: High vs Low Revenue shows
+- Regression: Predict Total Revenue
+- SQL Business Queries
+- Visual Insights
+
+## Final Results
+- Decision Tree Accuracy: 97.11%
+- Linear Regression R2 Score: 0.98
+- Recommendations: Focus on Evening Shows, Improve Concession Upsells
